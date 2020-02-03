@@ -1,0 +1,23 @@
+body {
+    font-family: helvetica-neue, helvetica, sans-serif;
+    margin: auto auto;
+    max-width: 50em;
+    padding: 4em 1em;
+    color: #333;
+}
+
+a {
+    color: #2B5894;
+}
+
+h2 {
+    margin-bottom: 0em;
+}
+
+img {
+    width: 20%;
+}
+
+table {
+    margin: 1em 0em;
+}
